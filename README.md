@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayisha-S
-- 👀 I’m interested in colleg
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning engineering in IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
